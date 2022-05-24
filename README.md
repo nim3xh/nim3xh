@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/nim3xh" target="blank"><img src="https://img.shields.io/twitter/follow/nim3xh?logo=twitter&style=for-the-badge" alt="nim3xh" /></a> </p>
 
-- 🔭 I’m currently undergraduate at **University of Ruhuna**
+- 🔭 I’m currently `Undergraduate` at **University of Ruhuna**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently `learning` **Flutter**
 
 - 📫 How to reach me **nim3xh@gmail.com**
 
