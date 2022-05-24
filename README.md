@@ -36,6 +36,9 @@
   <br/>
    <a href="https://github.com/nim3xh"><img alt="Nimesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nim3xh&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+Credits: [7oSkaaa](https://github.com/7oSkaaa)
+
+Last Edited on: 10/02/2022
 <!---
 nim3xh/nim3xh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
