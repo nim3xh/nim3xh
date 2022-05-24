@@ -34,7 +34,7 @@
 
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nim3xh"><img alt="Nimesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nim3xh&custom_title=Nimesh's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/nim3xh"><img alt="Nimesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nim3xh&custom_title=Nimesh's%20Contribution%20Graph&theme=algoliak" /></a>
   <br/>
   <br/>
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
