@@ -32,12 +32,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nim3xh&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nim3xh" /></p>
 
- <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/nim3xh"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nim3xh&custom_title=Nimesh's%20Contribution%20Graph&theme=react-dark"></a>
-  <br/>
-  <br/>
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
 <!---
 nim3xh/nim3xh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
