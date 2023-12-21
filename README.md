@@ -9,6 +9,8 @@
 - 🔭 I’m currently `Undergraduate` at **University of Ruhuna**
 
 - 🌱 I’m currently `learning` **Flutter**
+  
+- 🌱 I’m currently `computer programmer @` **Fiverr**
 
 - 📫 How to reach me **nim3xh@gmail.com**
 
