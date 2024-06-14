@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nimesh Rangana</h1>
+<h1 align="center">Hi 👋, I'm Nimesh Jayaweera</h1>
 <h3 align="center">Programmer & Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
