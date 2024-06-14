@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently `Undergraduate` at **University of Ruhuna**
   
-- 🌱 I’m currently working as freelance `computer programmer` at **Fiverr**
+- 🌱 I’m currently working as `computer programmer` at **Fiverr**
 
 - 📫 How to reach me **nim3xh@gmail.com**
 
