@@ -11,11 +11,9 @@
 
 - 🔭 I’m currently `Undergraduate` at **University of Ruhuna**
   
-- 🌱 I’m currently `computer programmer` **Fiverr**
+- 🌱 I’m currently working as freelance `computer programmer` at **Fiverr**
 
 - 📫 How to reach me **nim3xh@gmail.com**
-
-- ⚡ Fun fact **Still trying to figure out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,15 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nim3xh&theme=algolia" alt="nim3xh"/></p>
 
-<!-- <a href="#nim3xh-lk-title">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=nim3xh&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="nim3xh" align="left" />
-</a> -->
-
 <a href="#nim3xh-title">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nim3xh&title_color=18d26e&text_color=ffffff&theme=algolia&langs_count=8&layout=compact" alt="nim3xh" align="left" />
 </a>
-
-<!---
-nim3xh/nim3xh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
