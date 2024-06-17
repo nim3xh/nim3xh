@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer</h3>
 <!-- <div align="right" style="display: flex; justify-content: space-between;"> -->
 <!--   <img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" alt="Coding" width="400"> -->
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Coding" width="400" align="right">
+<!--   <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Coding" width="400" align="right"> -->
 <!-- </div> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nim3xh&label=Profile%20views&color=0e75b6&style=flat" alt="nim3xh" /> </p>
