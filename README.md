@@ -35,8 +35,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
      &#8287;&#8287;&#8287;&#8287;&#8287;
      <a href="https://www.instagram.com/nim3xh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
      &#8287;&#8287;&#8287;&#8287;&#8287;
-    
-  </p> -->
+    </p> -->
   
 ---
 ### 🧰 Languages and Tools
