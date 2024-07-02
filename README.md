@@ -9,12 +9,12 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
       <a href="https://www.youtube.com/@im.nim3xh?sub_confirmation=1">
         <img alt="youtube subscribers of vlogs channel" title="Subscribe to my vlogs channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCouOL8BqI9AOMD-qzckP64w?color=%23E05D44&label=VLOGS%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
       </a>
-      <!-- <a href="https://www.youtube.com/@im.nim3xh">
+      <a href="https://www.youtube.com/@im.nim3xh">
         <img alt="youtube views" title="YouTube views of vlogs channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCouOL8BqI9AOMD-qzckP64w?color=%23E1AD0E&logo=eye&label=VLOGS%20CHANNEL%20VIEWS&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-      </a> -->
-      <a href="https://www.youtube.com/@howitcodes?sub_confirmation=1">
-        <img alt="youtube subscribers of DC channel" title="Subscribe to my digital creations channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E05D44&label=DIGITAL%20CREATIONS%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
       </a>
+      <!-- <a href="https://www.youtube.com/@howitcodes?sub_confirmation=1">
+        <img alt="youtube subscribers of DC channel" title="Subscribe to my digital creations channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E05D44&label=DIGITAL%20CREATIONS%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+      </a> -->
     <br/>
     <a href="https://www.youtube.com/@howitcodes?sub_confirmation=1">
         <img alt="youtube subscribers of DC channel" title="Subscribe to my digital creations channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E05D44&label=DIGITAL%20CREATIONS%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
