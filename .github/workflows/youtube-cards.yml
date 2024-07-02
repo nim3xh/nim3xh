@@ -11,27 +11,9 @@ jobs:
       contents: write
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
-        id: youtube
         with:
           channel_id: UCouOL8BqI9AOMD-qzckP64w
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
-          max_videos: 3 
-          
-      - name: Filter YouTube Videos (Exclude Shorts)
-        id: filter-videos
-        run: |
-          filtered_videos=""
-          for video in ${{ steps.youtube.outputs.videos }}; do
-            # Check if the video is not a short
-            if [[ ! $video =~ "Short" ]]; then
-              filtered_videos="$filtered_videos $video"
-            fi
-          done
-          echo "::set-output name=filtered_videos::$filtered_videos"
-          
-      - name: Output Filtered Videos
-        run: |
-          echo "Filtered Videos:"
-          echo "${{ steps.filter-videos.outputs.filtered_videos }}"
+          max_videos: 3
