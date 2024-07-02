@@ -13,7 +13,7 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCFzOomVm2_kFnMEk_Hr19ZA
-          comment_tag_name: YOUTUBE-CARDS
+          comment_tag_name: YOUTUBE-CARDS-DC
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
           max_videos: 3
