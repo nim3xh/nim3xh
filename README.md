@@ -24,11 +24,13 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
     <a href="https://github.com/nim3xh?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nim3xh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   </p>
-  <p>
+<!--   <p>
     <a href="https://www.linkedin.com/in/nim3xh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
      &#8287;&#8287;&#8287;&#8287;&#8287;
+     <a href="https://www.instagram.com/nim3xh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+     &#8287;&#8287;&#8287;&#8287;&#8287;
     
-  </p>
+  </p> -->
   
 ---
 ### 🧰 Languages and Tools
