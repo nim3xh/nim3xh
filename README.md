@@ -16,7 +16,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
     <br/>
     <!-- Digital Creations Channel Badges -->
     <a href="https://www.youtube.com/@howitcodes?sub_confirmation=1" target="_blank">
-        <img alt="YouTube Digital Creations Channel Subscribers" title="Subscribe to my Digital Creations Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E05D44&label=CODING%20CHANNEL%20SUBS    &logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+        <img alt="YouTube Digital Creations Channel Subscribers" title="Subscribe to my Digital Creations Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E05D44&label=CODING%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
     <a href="https://www.youtube.com/@howitcodes" target="_blank">
         <img alt="YouTube Digital Creations Channel Views" title="View my Digital Creations Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E1AD0E&logo=eye&label=%20VIEWS&logoColor=white&style=for-the-badge&labelColor=C79600"/>
@@ -37,9 +37,11 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
      <a href="https://www.instagram.com/nim3xh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
      &#8287;&#8287;&#8287;&#8287;&#8287;
     </p> -->
-  
+
 ---
+
 ### 🧰 Languages and Tools
+
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <!--  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
@@ -67,7 +69,9 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 #### Coding Channel 💻 🎨 ✨
 
   <!-- BEGIN YOUTUBE-CARDS-DC -->
+
 [![Impressive iPhone trick 🫨](https://ytcards.demolab.com/?id=TX84QFMeOCE&title=Impressive+iPhone+trick+%F0%9F%AB%A8&lang=en&timestamp=1715867400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25 "Impressive iPhone trick 🫨")](https://www.youtube.com/watch?v=TX84QFMeOCE)
+
 <!-- END YOUTUBE-CARDS-DC -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@howitcodes?sub_confirmation=1)
@@ -77,9 +81,11 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 #### Personal Channel 🎥 🌍 📹
 
   <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Three places you must visit in Sri Lanka 🇱🇰🍃 #nature #srilanka #travel #waterfall #mountains](https://ytcards.demolab.com/?id=5rKiw2LCASY&title=Three+places+you+must+visit+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0%F0%9F%8D%83+%23nature+%23srilanka+%23travel+%23waterfall+%23mountains&lang=en&timestamp=1719409800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17 "Three places you must visit in Sri Lanka 🇱🇰🍃 #nature #srilanka #travel #waterfall #mountains")](https://www.youtube.com/watch?v=5rKiw2LCASY)
 [![කවුද දන්නෙ මේ place එක? 🍃 #nature #srilanka #travel #waterfalls](https://ytcards.demolab.com/?id=i-gT42AB1w4&title=%E0%B6%9A%E0%B7%80%E0%B7%94%E0%B6%AF+%E0%B6%AF%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B7%99+%E0%B6%B8%E0%B7%9A+place+%E0%B6%91%E0%B6%9A%3F+%F0%9F%8D%83+%23nature+%23srilanka+%23travel+%23waterfalls&lang=en&timestamp=1719323400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=30 "කවුද දන්නෙ මේ place එක? 🍃 #nature #srilanka #travel #waterfalls")](https://www.youtube.com/watch?v=i-gT42AB1w4)
 [![එන්න අපි ඇබර්ඩීන් යමු🫣 | Aberdeen Waterfall🌱 | Sri Lanka 🇱🇰 | im.nim3xh😉 | VLOG 06 🍻](https://ytcards.demolab.com/?id=qF6INOZ4DSw&title=%E0%B6%91%E0%B6%B1%E0%B7%8A%E0%B6%B1+%E0%B6%85%E0%B6%B4%E0%B7%92+%E0%B6%87%E0%B6%B6%E0%B6%BB%E0%B7%8A%E0%B6%A9%E0%B7%93%E0%B6%B1%E0%B7%8A+%E0%B6%BA%E0%B6%B8%E0%B7%94%F0%9F%AB%A3+%7C+Aberdeen+Waterfall%F0%9F%8C%B1+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%7C+im.nim3xh%F0%9F%98%89+%7C+VLOG+06+%F0%9F%8D%BB&lang=en&timestamp=1718803825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=832 "එන්න අපි ඇබර්ඩීන් යමු🫣 | Aberdeen Waterfall🌱 | Sri Lanka 🇱🇰 | im.nim3xh😉 | VLOG 06 🍻")](https://www.youtube.com/watch?v=qF6INOZ4DSw)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@im.nim3xh?sub_confirmation=1)
