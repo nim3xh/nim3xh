@@ -11,7 +11,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
         <img alt="YouTube Vlogs Channel Subscribers" title="Subscribe to my Vlogs Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCouOL8BqI9AOMD-qzckP64w?color=%23E05D44&label=PERSONAL%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
     <a href="https://www.youtube.com/@im.nim3xh" target="_blank">
-        <img alt="YouTube Vlogs Channel Views" title="View my Vlogs Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCouOL8BqI9AOMD-qzckP64w?color=%23E1AD0E&logo=eye&label=PERSONAL%20CHANNEL%20VIEWS&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+        <img alt="YouTube Vlogs Channel Views" title="View my Vlogs Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCouOL8BqI9AOMD-qzckP64w?color=%23E1AD0E&logo=eye&label=%20VIEWS&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a>
     <br/>
     <!-- Digital Creations Channel Badges -->
@@ -19,7 +19,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
         <img alt="YouTube Digital Creations Channel Subscribers" title="Subscribe to my Digital Creations Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E05D44&label=CODING%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
     <a href="https://www.youtube.com/@howitcodes" target="_blank">
-        <img alt="YouTube Digital Creations Channel Views" title="View my Digital Creations Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E1AD0E&logo=eye&label=CODING%20CHANNEL%20VIEWS&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+        <img alt="YouTube Digital Creations Channel Views" title="View my Digital Creations Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E1AD0E&logo=eye&label=%20VIEWS&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a>
     <br/>
     <!-- GitHub Badges -->
