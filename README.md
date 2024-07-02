@@ -79,6 +79,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 
 #
 
+### 📊 Stats
 <!-- Flex container to align the items side by side -->
 <div style="display: flex; justify-content: center;">
 
@@ -89,6 +90,10 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nim3xh&title_color=18d26e&text_color=ffffff&theme=algolia&langs_count=8&layout=compact" alt="nim3xh" style="height: 200px; width: 48%;" />
 
 </div>
+
+![nim3xh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nim3xh\&show_icons=true\&theme=algolia#gh-dark-mode-only)
+
+#
 
 [youtube]: https://youtube.com/@im.nim3xh
 [youtubeTech]: https://youtube.com/@howitcodes
