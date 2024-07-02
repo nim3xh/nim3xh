@@ -55,6 +55,15 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
   
 #
 
+### 📺 Latest YouTube Videos
+  <!-- BEGIN YOUTUBE-CARDS -->
+   
+  <!-- END YOUTUBE-CARDS -->
+
+  [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@im.nim3xh?sub_confirmation=1)
+
+#
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nim3xh&theme=algolia" alt="nim3xh"/></p>
 
 <a href="#nim3xh-title">
