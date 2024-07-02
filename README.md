@@ -9,14 +9,14 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
     <a href="https://www.youtube.com/@im.nim3xh?sub_confirmation=1">
       <img alt="youtube subscribers of vlogs channel" title="Subscribe to my vlogs channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCouOL8BqI9AOMD-qzckP64w?color=%23E05D44&label=VLOGS%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
-    <a href="https://www.youtube.com/@im.nim3xh?sub_confirmation=1">
+    <a href="https://www.youtube.com/@howitcodes?sub_confirmation=1">
       <img alt="youtube subscribers of DC channel" title="Subscribe to my digital creations channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E05D44&label=DIGITAL%20CREATIONS%20CHANNEL%20SUBS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
     <br/>
     <a href="https://www.youtube.com/@im.nim3xh">
       <img alt="youtube views" title="YouTube views of vlogs channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCouOL8BqI9AOMD-qzckP64w?color=%23E1AD0E&logo=eye&label=VLOGS%20CHANNEL%20VIEWS&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a>
-    <a href="https://www.youtube.com/@im.nim3xh">
+    <a href="https://www.youtube.com/@howitcodes">
       <img alt="youtube views" title="YouTube views of DC channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCFzOomVm2_kFnMEk_Hr19ZA?color=%23E1AD0E&logo=eye&label=DIGITAL%20CREATIONS%20CHANNEL%20VIEWS&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
     <br/> 
     <a href="https://github.com/nim3xh?tab=followers">
@@ -74,7 +74,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 [![Impressive iPhone trick 🫨](https://ytcards.demolab.com/?id=TX84QFMeOCE&title=Impressive+iPhone+trick+%F0%9F%AB%A8&lang=en&timestamp=1715867400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25 "Impressive iPhone trick 🫨")](https://www.youtube.com/watch?v=TX84QFMeOCE)
 <!-- END YOUTUBE-CARDS-DC -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@howitworks?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@howitcodes?sub_confirmation=1)
 
 #
 
