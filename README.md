@@ -71,9 +71,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 #### Coding Channel 💻 🎨 ✨
 
   <!-- BEGIN YOUTUBE-CARDS-DC -->
-
 [![Impressive iPhone trick 🫨](https://ytcards.demolab.com/?id=TX84QFMeOCE&title=Impressive+iPhone+trick+%F0%9F%AB%A8&lang=en&timestamp=1715867400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25 "Impressive iPhone trick 🫨")](https://www.youtube.com/watch?v=TX84QFMeOCE)
-
 <!-- END YOUTUBE-CARDS-DC -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@howitcodes?sub_confirmation=1)
