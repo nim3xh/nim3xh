@@ -79,11 +79,16 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 
 #
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nim3xh&theme=algolia" alt="nim3xh"/></p>
+<!-- Flex container to align the items side by side -->
+<div style="display: flex; justify-content: center;">
 
-<a href="#nim3xh-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nim3xh&title_color=18d26e&text_color=ffffff&theme=algolia&langs_count=8&layout=compact" alt="nim3xh" align="left" />
-</a>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nim3xh&theme=algolia" alt="nim3xh" style="height: 200px; width: 48%; margin-right: 10px;" />
+
+  <!-- Top Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nim3xh&title_color=18d26e&text_color=ffffff&theme=algolia&langs_count=8&layout=compact" alt="nim3xh" style="height: 200px; width: 48%;" />
+
+</div>
 
 [youtube]: https://youtube.com/@im.nim3xh
 [youtubeTech]: https://youtube.com/@howitcodes
