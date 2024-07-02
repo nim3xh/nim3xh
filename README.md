@@ -64,7 +64,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 
 ### 📺 Latest YouTube Videos
 
-#### Digital Creation Channel 💻 🎨 ✨
+#### Coding Channel 💻 🎨 ✨
 
   <!-- BEGIN YOUTUBE-CARDS-DC -->
 [![Impressive iPhone trick 🫨](https://ytcards.demolab.com/?id=TX84QFMeOCE&title=Impressive+iPhone+trick+%F0%9F%AB%A8&lang=en&timestamp=1715867400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25 "Impressive iPhone trick 🫨")](https://www.youtube.com/watch?v=TX84QFMeOCE)
@@ -74,7 +74,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 
 #
 
-#### Vlogs Channel 🎥 🌍 📹
+#### Personal Channel 🎥 🌍 📹
 
   <!-- BEGIN YOUTUBE-CARDS -->
 [![Three places you must visit in Sri Lanka 🇱🇰🍃 #nature #srilanka #travel #waterfall #mountains](https://ytcards.demolab.com/?id=5rKiw2LCASY&title=Three+places+you+must+visit+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0%F0%9F%8D%83+%23nature+%23srilanka+%23travel+%23waterfall+%23mountains&lang=en&timestamp=1719409800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17 "Three places you must visit in Sri Lanka 🇱🇰🍃 #nature #srilanka #travel #waterfall #mountains")](https://www.youtube.com/watch?v=5rKiw2LCASY)
