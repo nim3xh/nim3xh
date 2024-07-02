@@ -80,20 +80,21 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 #
 
 ### 📊 Stats
+
 <!-- Flex container to align the items side by side -->
 <div style="display: flex; justify-content: center;">
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nim3xh&theme=algolia" alt="nim3xh" style="height: 200px; width: 48%; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nim3xh&theme=algolia" alt="nim3xh" style="height: 200px; margin-right: 10px;" />
 
   <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nim3xh&title_color=18d26e&text_color=ffffff&theme=algolia&langs_count=8&layout=compact" alt="nim3xh" style="height: 200px; width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nim3xh&title_color=18d26e&text_color=ffffff&theme=algolia&langs_count=8&layout=compact" alt="nim3xh" style="height: 200px;" />
 
 </div>
 
-![nim3xh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nim3xh\&show_icons=true\&theme=algolia#gh-dark-mode-only)
+<!-- GitHub Stats -->
+![nim3xh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nim3xh&show_icons=true&theme=algolia#gh-dark-mode-only)
 
-#
 
 [youtube]: https://youtube.com/@im.nim3xh
 [youtubeTech]: https://youtube.com/@howitcodes
