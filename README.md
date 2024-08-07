@@ -71,6 +71,7 @@ I'm an aspiring full-stack developer and creative content creator, shaping my di
 #### Coding Channel 💻 🎨 ✨
 
   <!-- BEGIN YOUTUBE-CARDS-DC -->
+[![Hello world! #coding #c #programming](https://ytcards.demolab.com/?id=N0-gB9kHqWA&title=Hello+world%21+%23coding+%23c+%23programming&lang=en&timestamp=1723038302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18 "Hello world! #coding #c #programming")](https://www.youtube.com/watch?v=N0-gB9kHqWA)
 [![Impressive iPhone trick 🫨](https://ytcards.demolab.com/?id=TX84QFMeOCE&title=Impressive+iPhone+trick+%F0%9F%AB%A8&lang=en&timestamp=1715867400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25 "Impressive iPhone trick 🫨")](https://www.youtube.com/watch?v=TX84QFMeOCE)
 <!-- END YOUTUBE-CARDS-DC -->
 
